@@ -1,0 +1,12 @@
+Get method to retrieve employee detail 
+http://localhost:8080/api/employees/1
+
+Update:
+build update employee REST API
+http://localhost:8080/api/employees/1
+
+Delete:
+build delete employee REST API
+http://localhost:8080/api/employees/1
+
+Note : Since I don't have experience in Front end, So i have created task only by using Backend Java and MySQL.
